@@ -15,7 +15,7 @@ Projeto para controle financeiro com cadastro de entradas e saidas, mostrando o 
 
 Para acessar o projeto entre em: https://fundamentos-react-js.vercel.app/
 
-
+![dtmoney](https://user-images.githubusercontent.com/76044304/221361093-1edb2166-a29d-4cf6-8ad5-77c4aaccf6a9.png)
 
 
 ## Para Instalar o Projeto
